@@ -1,1 +1,5 @@
 ini adalah file baru yaitu file branch/cabang 
+
+-branch
+ *contoh1
+ *contoh2
